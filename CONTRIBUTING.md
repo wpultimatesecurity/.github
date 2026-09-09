@@ -17,9 +17,9 @@ page or example and explain the correction. For features, describe the problem
 and who would benefit before proposing an implementation.
 
 Remove credentials, private URLs, and personal data from logs and screenshots.
-Use [support guidance](https://github.com/wpultimatesecurity/.github/blob/main/SUPPORT.md)
+Use [support guidance](https://github.com/wpultimatesecurity/.github/blob/dev/SUPPORT.md)
 for product questions. For vulnerabilities, follow the repository's security
-policy or the [organization security policy](https://github.com/wpultimatesecurity/.github/blob/main/SECURITY.md)
+policy or the [organization security policy](https://github.com/wpultimatesecurity/.github/blob/dev/SECURITY.md)
 before sharing details publicly.
 
 ## Make a pull request
@@ -41,4 +41,4 @@ Do not submit an exploit or a fix that reveals an undisclosed vulnerability in a
 public pull request; arrange private review through the applicable security policy.
 
 Treat other contributors with respect and follow the
-[code of conduct](https://github.com/wpultimatesecurity/.github/blob/main/CODE_OF_CONDUCT.md).
+[code of conduct](https://github.com/wpultimatesecurity/.github/blob/dev/CODE_OF_CONDUCT.md).

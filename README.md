@@ -26,9 +26,16 @@ issue-template directory. See [GitHub's default community file documentation](ht
   private reporting destination and confirm who will handle reports.
 - Review these policies before adopting them organization-wide.
 
-Profile and shared-policy links target `wpultimatesecurity/.github` on `main`.
+Profile and shared-policy links target `wpultimatesecurity/.github` on `dev`.
 They will become live only after these files are manually published there.
 Local links above can be used for review in the meantime.
+
+## Branch convention
+
+`dev` is the working branch and intended GitHub default branch for this
+repository. After manual publication, select `dev` as the repository default
+on GitHub so the organization profile and community defaults use this branch.
+Renaming the local branch does not change GitHub settings.
 
 This checkout has no Git remote. No publication automation is included.
 
@@ -44,5 +51,5 @@ them for sensitive data, and update the source record when replacing an asset.
 Check narrow layouts and both light and dark themes. Preserve descriptive alt
 text and the full-size screenshot link.
 
-Image URLs target the future repository on `main`, so they become live only
+Image URLs target the future repository on `dev`, so they become live only
 after manual publication. For local review, open the PNG files in `profile/assets`.

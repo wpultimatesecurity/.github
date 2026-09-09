@@ -25,5 +25,5 @@ Never include passwords or access tokens in an initial support request.
 
 Do not disclose vulnerabilities in public issues or support threads. Follow the
 affected repository's security policy, or the
-[organization security policy](https://github.com/wpultimatesecurity/.github/blob/main/SECURITY.md)
+[organization security policy](https://github.com/wpultimatesecurity/.github/blob/dev/SECURITY.md)
 when no repository-specific policy exists.

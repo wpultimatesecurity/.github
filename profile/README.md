@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/main/profile/assets/ultimate-security-logo.png" width="60" height="60" alt="Ultimate Security logo">
+<img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/ultimate-security-logo.png" width="60" height="60" alt="Ultimate Security logo">
 
 # Ultimate Security
 
@@ -32,7 +32,7 @@ or replace human review.
 <details>
 <summary>View the dashboard and video walkthroughs</summary>
 
-[![Annotated Ultimate Security dashboard showing security findings, recommended actions, and recent sign-ins.](https://raw.githubusercontent.com/wpultimatesecurity/.github/main/profile/assets/ultimate-security-preview.png)](https://raw.githubusercontent.com/wpultimatesecurity/.github/main/profile/assets/ultimate-security-preview.png)
+[![Annotated Ultimate Security dashboard showing security findings, recommended actions, and recent sign-ins.](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/ultimate-security-preview.png)](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/ultimate-security-preview.png)
 
 Official dashboard illustration from the WordPress.org listing. Open the image
 at full size to read the annotations, or [browse the plugin screenshots](https://wordpress.org/plugins/ultimate-security/#screenshots).
@@ -50,14 +50,14 @@ Clearer explanations, corrected examples, and reproducible bug reports all help.
 Choose the relevant project, check existing issues, and follow its contribution
 instructions before opening a focused pull request.
 
-Our [contribution guidelines](https://github.com/wpultimatesecurity/.github/blob/main/CONTRIBUTING.md)
+Our [contribution guidelines](https://github.com/wpultimatesecurity/.github/blob/dev/CONTRIBUTING.md)
 provide a starting point for repositories without their own guidance.
 
 ## Security vulnerabilities
 
 Do not post vulnerabilities, exploit details, or credentials in public issues or
 pull requests. Follow our
-[security reporting policy](https://github.com/wpultimatesecurity/.github/blob/main/SECURITY.md)
+[security reporting policy](https://github.com/wpultimatesecurity/.github/blob/dev/SECURITY.md)
 and any repository-specific disclosure instructions.
 
 ## Support

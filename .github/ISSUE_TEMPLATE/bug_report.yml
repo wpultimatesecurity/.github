@@ -4,9 +4,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        **Do not report security vulnerabilities through this issue form. Follow [SECURITY.md](https://github.com/wpultimatesecurity/.github/blob/main/SECURITY.md) instead.**
+        **Do not report security vulnerabilities through this issue form. Follow [SECURITY.md](https://github.com/wpultimatesecurity/.github/blob/dev/SECURITY.md) instead.**
         Follow the affected repository's own security policy if it has one.
-        For plugin setup or customer questions, see [support guidance](https://github.com/wpultimatesecurity/.github/blob/main/SUPPORT.md).
+        For plugin setup or customer questions, see [support guidance](https://github.com/wpultimatesecurity/.github/blob/dev/SUPPORT.md).
   - type: input
     id: project
     attributes:

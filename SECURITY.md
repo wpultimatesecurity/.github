@@ -41,4 +41,4 @@ time, remediation deadline, bounty, or other compensation, and does not authoriz
 testing of third-party systems.
 
 For ordinary bugs and product questions, see
-[support guidance](https://github.com/wpultimatesecurity/.github/blob/main/SUPPORT.md).
+[support guidance](https://github.com/wpultimatesecurity/.github/blob/dev/SUPPORT.md).

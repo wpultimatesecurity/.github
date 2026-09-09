@@ -5,7 +5,7 @@ body:
     attributes:
       value: |
         Search existing issues first. Keep the proposal focused on this repository.
-        Do not include secrets or personal data. For vulnerabilities, follow the repository's security policy or [SECURITY.md](https://github.com/wpultimatesecurity/.github/blob/main/SECURITY.md).
+        Do not include secrets or personal data. For vulnerabilities, follow the repository's security policy or [SECURITY.md](https://github.com/wpultimatesecurity/.github/blob/dev/SECURITY.md).
   - type: textarea
     id: problem
     attributes:
