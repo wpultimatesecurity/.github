@@ -40,8 +40,8 @@ This checkout has no Git remote. No publication automation is included.
 
 ## Media maintenance
 
-The profile uses a small official brand mark and a dashboard illustration in a
-collapsed product preview, followed by official video links and a social footer.
+The profile uses a small official brand mark and an always-visible dashboard
+illustration, followed by official video links and a social footer.
 See [media sources](profile/assets/SOURCES.md) for provenance and retrieval dates.
 
 When the interface or official channels change, review the screenshot, video

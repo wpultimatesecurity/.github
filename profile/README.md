@@ -29,9 +29,6 @@ you still need to review the code they produce.
 
 ## Product preview
 
-<details>
-<summary>View the dashboard and video walkthroughs</summary>
-
 [![Annotated Ultimate Security dashboard showing security findings, recommended actions, and recent sign-ins.](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/ultimate-security-preview.png)](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/ultimate-security-preview.png)
 
 This dashboard illustration comes from our WordPress.org listing. Open the
@@ -39,10 +36,8 @@ image at full size for a closer look, or [browse the plugin screenshots](https:/
 
 Video walkthroughs from WP Ultimate Security:
 
-- [Ultimate Security Overview for Beginners](https://www.youtube.com/watch?v=wip2sejhJkQ)
+- [Ultimate Security Full WordPress Security Setup](https://www.youtube.com/watch?v=MU7KivId-cE)
 - [How to Setup Cloudflare WAF Rules for WordPress](https://www.youtube.com/watch?v=LCuXzebRGj4)
-
-</details>
 
 ## Contributing
 

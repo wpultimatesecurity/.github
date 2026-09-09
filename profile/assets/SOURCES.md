@@ -11,7 +11,10 @@ no new artwork or brand colors were introduced.
 The small transparent website logo was inspected but not retained because its
 dark purple lettering has poor contrast on dark backgrounds.
 
-The two video links come from the [official plugin listing](https://wordpress.org/plugins/ultimate-security/).
+The [full WordPress security setup video](https://www.youtube.com/watch?v=MU7KivId-cE)
+was selected by the project owner. The
+[Cloudflare WAF walkthrough](https://www.youtube.com/watch?v=LCuXzebRGj4)
+comes from the [official plugin listing](https://wordpress.org/plugins/ultimate-security/).
 Titles and channel ownership were checked through YouTube's public oEmbed metadata.
 The social destinations are published in the [official website](https://wpultimatesecurity.com/) footer.
 
