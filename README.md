@@ -40,11 +40,12 @@ This checkout has no Git remote. No publication automation is included.
 
 ## Media maintenance
 
-The profile uses a small official brand mark and an always-visible dashboard
-illustration, followed by official video links and a social footer.
+The profile uses a small official brand mark, an always-visible dashboard
+illustration, and a compact linked screenshot gallery, followed by official
+video links and a social footer.
 See [media sources](profile/assets/SOURCES.md) for provenance and retrieval dates.
 
-When the interface or official channels change, review the screenshot, video
+When the interface or official channels change, review the screenshots, video
 links, and social destinations. Keep images recognizable and unaltered, inspect
 them for sensitive data, and update the source record when replacing an asset.
 Check narrow layouts and both light and dark themes. Preserve descriptive alt

@@ -18,5 +18,19 @@ comes from the [official plugin listing](https://wordpress.org/plugins/ultimate-
 Titles and channel ownership were checked through YouTube's public oEmbed metadata.
 The social destinations are published in the [official website](https://wpultimatesecurity.com/) footer.
 
+The additional gallery images are copied from the local plugin assets supplied
+for this profile:
+
+| Local file | Source asset | Description |
+| --- | --- | --- |
+| setup-wizard.png | `screenshot-2.png` | Guided setup wizard |
+| login-protection.png | `screenshot-3.png` | Login protection settings |
+| two-factor-authentication.png | `screenshot-5.png` | Two-factor authentication |
+| vulnerability-scanner.png | `screenshot-8.png` | Vulnerability scanner |
+| cloudflare-waf.png | `screenshot-9.png` | Cloudflare WAF rules |
+
+The source directory also contains a Playground blueprint with example email
+addresses. That file was deliberately excluded from this public repository.
+
 These assets remain the property of their respective owners. This source record
 does not grant a separate license to the branding or screenshots.

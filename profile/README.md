@@ -39,6 +39,22 @@ Video walkthroughs from WP Ultimate Security:
 - [Ultimate Security Full WordPress Security Setup](https://www.youtube.com/watch?v=MU7KivId-cE)
 - [How to Setup Cloudflare WAF Rules for WordPress](https://www.youtube.com/watch?v=LCuXzebRGj4)
 
+### More screens
+
+Click any image to open it at full size.
+
+| Setup wizard | Login protection |
+| --- | --- |
+| [<img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/setup-wizard.png" width="320" alt="Ultimate Security setup wizard showing a guided protection setup.">](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/setup-wizard.png) | [<img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/login-protection.png" width="320" alt="Ultimate Security login protection settings and lockout controls.">](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/login-protection.png) |
+
+| Two-factor authentication | Vulnerability scanner |
+| --- | --- |
+| [<img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/two-factor-authentication.png" width="320" alt="Ultimate Security two-factor authentication settings by user role.">](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/two-factor-authentication.png) | [<img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/vulnerability-scanner.png" width="320" alt="Ultimate Security vulnerability scanner results for WordPress components.">](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/vulnerability-scanner.png) |
+
+| Cloudflare WAF rules | |
+| --- | --- |
+| [<img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/cloudflare-waf.png" width="320" alt="Ultimate Security Cloudflare WAF rule configuration.">](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/cloudflare-waf.png) | |
+
 ## Contributing
 
 Found a confusing explanation, an example that needs fixing, or a bug you can
