@@ -4,10 +4,10 @@
 
 Practical, privacy-first security for WordPress.
 
-Ultimate Security is a WordPress plugin that helps strengthen authentication,
-limit unwanted login attempts, and identify known vulnerabilities. We also
-publish security guides and development resources to make safer WordPress
-practices easier to understand and apply.
+We build Ultimate Security to help you secure your WordPress site, from
+protecting logins to finding known vulnerabilities. Alongside the plugin, we
+share guides and code examples you can use when looking after a site or
+building something for WordPress.
 
 [Website](https://wpultimatesecurity.com/) ·
 [Get the plugin](https://wordpress.org/plugins/ultimate-security/) ·
@@ -15,17 +15,17 @@ practices easier to understand and apply.
 
 ## Open-source resources
 
-Whether you maintain one site, manage client sites, or build plugins and themes,
-start with the resource that fits your work.
+Looking after a site? Start with the guides. Writing or reviewing WordPress
+code with an AI agent? Take a look at the skills.
 
 | Project | What it's for |
 | --- | --- |
 | [WordPress Security Best Practices](https://github.com/wpultimatesecurity/WordPress-Security-Best-Practices) | Practical guides, checklists, and recovery guidance for site owners, developers, and agencies. |
 | [WordPress Security Skills](https://github.com/wpultimatesecurity/WordPress-Security-Skills) | Instructions and reference examples for AI coding agents working on WordPress security. |
 
-The guides cover everyday maintenance through operational hardening. The skills
-support development and code review; they do not automatically protect a site
-or replace human review.
+The guides cover updates, access, backups, and what to do if a site is
+compromised. The skills give coding agents security guidance and examples;
+you still need to review the code they produce.
 
 ## Product preview
 
@@ -34,8 +34,8 @@ or replace human review.
 
 [![Annotated Ultimate Security dashboard showing security findings, recommended actions, and recent sign-ins.](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/ultimate-security-preview.png)](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/ultimate-security-preview.png)
 
-Official dashboard illustration from the WordPress.org listing. Open the image
-at full size to read the annotations, or [browse the plugin screenshots](https://wordpress.org/plugins/ultimate-security/#screenshots).
+This dashboard illustration comes from our WordPress.org listing. Open the
+image at full size for a closer look, or [browse the plugin screenshots](https://wordpress.org/plugins/ultimate-security/#screenshots).
 
 Video walkthroughs from WP Ultimate Security:
 
@@ -46,12 +46,12 @@ Video walkthroughs from WP Ultimate Security:
 
 ## Contributing
 
-Clearer explanations, corrected examples, and reproducible bug reports all help.
-Choose the relevant project, check existing issues, and follow its contribution
-instructions before opening a focused pull request.
+Found a confusing explanation, an example that needs fixing, or a bug you can
+reproduce? Open an issue in the project it belongs to, or send a small pull
+request. Check existing issues and the project’s contribution instructions first.
 
 Our [contribution guidelines](https://github.com/wpultimatesecurity/.github/blob/dev/CONTRIBUTING.md)
-provide a starting point for repositories without their own guidance.
+cover the basics when a project doesn’t have its own instructions.
 
 ## Security vulnerabilities
 
@@ -62,14 +62,14 @@ and any repository-specific disclosure instructions.
 
 ## Support
 
-For plugin setup and troubleshooting, use the
+Need help setting up the plugin or figuring out a problem? Ask in the
 [WordPress.org support forum](https://wordpress.org/support/plugin/ultimate-security/).
 For product or customer questions, email
 [support@wpultimatesecurity.com](mailto:support@wpultimatesecurity.com).
 
-Use the relevant repository's issues for code and documentation problems or
-feature proposals. Remove secrets and personal data before sharing logs or
-screenshots in any public support channel.
+For code fixes, documentation changes, and feature ideas, use the relevant
+repository’s issues. Remove secrets and personal data before sharing logs or
+screenshots publicly.
 
 ## Stay connected
 

@@ -1,7 +1,8 @@
 # WP Ultimate Security GitHub configuration
 
-This is the local source for the future public `wpultimatesecurity/.github`
-repository. It contains the organization profile and default community files.
+This repository holds the WP Ultimate Security organization profile and shared
+contribution, security, and support guidance. It is prepared locally for
+publication as `wpultimatesecurity/.github`.
 
 | File | Purpose |
 | --- | --- |

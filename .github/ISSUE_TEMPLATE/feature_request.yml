@@ -10,7 +10,7 @@ body:
     id: problem
     attributes:
       label: Problem
-      description: What is difficult or missing, and who encounters it?
+      description: What are you trying to do, and what gets in the way?
     validations:
       required: true
   - type: textarea
@@ -29,7 +29,7 @@ body:
     id: benefit
     attributes:
       label: Expected benefit
-      description: How would this improve the project for its users?
+      description: Who would this help, and how?
     validations:
       required: true
   - type: textarea

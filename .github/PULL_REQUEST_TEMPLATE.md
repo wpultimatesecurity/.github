@@ -8,7 +8,7 @@
 
 ## How was it tested?
 
-<!-- Describe checks and results, including anything you could not verify. -->
+<!-- Tell us what you checked, what happened, and anything you could not verify. -->
 
 ## Checklist
 

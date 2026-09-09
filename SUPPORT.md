@@ -2,12 +2,13 @@
 
 ## GitHub development issues
 
-Use the affected repository's issues for reproducible software bugs,
-code or documentation problems, and relevant feature proposals. Search existing
-issues first and follow that repository's instructions and templates.
+Found a bug, a mistake in a guide, or something you’d like to improve? Open an
+issue in the project it belongs to. Search existing issues first, then use the
+project’s instructions and templates.
 
-Include the affected version, environment, and steps to reproduce the problem.
-Remove secrets, private URLs, and personal data before attaching evidence.
+Tell us which version you’re using and how to reproduce the problem. Include
+relevant environment details, but remove secrets, private URLs, and personal
+data from anything you share.
 
 ## Product and customer support
 

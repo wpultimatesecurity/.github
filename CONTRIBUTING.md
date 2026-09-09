@@ -1,20 +1,19 @@
 # Contributing
 
-Contributions to WP Ultimate Security's public projects are welcome. Start with
-[the organization’s repositories](https://github.com/wpultimatesecurity).
-Choose the project affected by your change and read its README, contribution
-instructions, and any applicable development guidance. Repository-specific
-instructions take precedence over these defaults.
+You can help by fixing an example, improving a guide, or reporting a bug. Find
+the right project in [our repositories](https://github.com/wpultimatesecurity),
+then read its README and contribution instructions. If a project has its own
+instructions, follow those first.
 
 ## Open an issue
 
 Search existing issues and pull requests first. Keep each report focused on one
 problem or proposal.
 
-For bugs, include the affected version or revision, relevant environment details,
-reproduction steps, and expected and actual behavior. For documentation, link the
-page or example and explain the correction. For features, describe the problem
-and who would benefit before proposing an implementation.
+For a bug, tell us which version you’re using, how to reproduce it, what you
+expected, and what happened instead. Include the environment details needed to
+try it. For a documentation fix, link the page or example and explain what needs
+changing. For a feature idea, start with the problem and who it would help.
 
 Remove credentials, private URLs, and personal data from logs and screenshots.
 Use [support guidance](https://github.com/wpultimatesecurity/.github/blob/dev/SUPPORT.md)
@@ -28,14 +27,14 @@ before sharing details publicly.
 - Follow the project's existing code style and documentation conventions.
 - Explain what changed, why, and how you checked it. Link related public issues.
 - Add or update relevant tests and documentation. Run the checks documented by
-  that repository and state any checks you could not run.
+  that repository and tell us about any checks you could not run.
 - Consider backward compatibility and the security impact of your change.
 - Review the diff for unrelated changes, secrets, and personal information.
 
 For security guidance, cite authoritative sources and explain how readers can
 verify the recommendation. Check examples against the WordPress and PHP versions
-supported by the relevant project. Do not assume every repository shares a build
-system or test command.
+supported by the relevant project. Use the build and test commands documented
+by that project.
 
 Do not submit an exploit or a fix that reveals an undisclosed vulnerability in a
 public pull request; arrange private review through the applicable security policy.

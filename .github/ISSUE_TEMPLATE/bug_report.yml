@@ -18,7 +18,7 @@ body:
     id: version
     attributes:
       label: Project version or revision
-      description: Release version or commit, if known. Write unknown if needed.
+      description: Which release or commit are you using? Write unknown if you are not sure.
     validations:
       required: true
   - type: input
@@ -42,7 +42,7 @@ body:
     id: reproduction
     attributes:
       label: Steps to reproduce
-      description: Provide the smallest example that demonstrates the problem.
+      description: What steps can we follow to see the problem? A small example helps.
     validations:
       required: true
   - type: textarea
