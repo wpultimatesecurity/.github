@@ -1,8 +1,10 @@
 # WP Ultimate Security GitHub configuration
 
-This repository holds the WP Ultimate Security organization profile and shared
-contribution, security, and support guidance. It is prepared locally for
-publication as `wpultimatesecurity/.github`.
+This repository holds the WP Ultimate Security organization profile and the
+shared contribution, security, and support guidance for our public projects.
+
+The profile in `profile/README.md` is what visitors see at
+[github.com/wpultimatesecurity](https://github.com/wpultimatesecurity).
 
 | File | Purpose |
 | --- | --- |
@@ -14,35 +16,43 @@ publication as `wpultimatesecurity/.github`.
 | [Issue forms](.github/ISSUE_TEMPLATE/) | Bug reports, feature requests, and support links. |
 | [Pull request template](.github/PULL_REQUEST_TEMPLATE.md) | Change summary and review checklist. |
 
-GitHub uses supported community files as defaults where a repository has no
-corresponding file. Repository-specific guidance takes precedence. A repository
-with its own issue templates or template configuration does not inherit this
-issue-template directory. See [GitHub's default community file documentation](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file).
+## How GitHub uses these files
 
-## Before publication
+GitHub applies a community file from this repository to any repository in the
+organization that does not have its own. Repository-specific files always win.
+A repository with its own issue templates or template configuration does not
+inherit this issue-template directory at all, so the forms here apply only to
+repositories that ship none of their own.
 
-Private vulnerability reports and code-of-conduct reports go to
-[support@wpultimatesecurity.com](mailto:support@wpultimatesecurity.com).
-Review these policies before adopting them organization-wide.
+See [GitHub's default community file documentation](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file).
 
-Profile and shared-policy links target `wpultimatesecurity/.github` on `dev`.
-They will become live only after these files are manually published there.
-Local links above can be used for review in the meantime.
+Our current public repositories define their own issue and pull request
+templates, so the copies here are the fallback for future repositories. When
+you change one, check whether the per-repository versions should change too.
 
 ## Branch convention
 
-`dev` is the working branch and intended GitHub default branch for this
-repository. After manual publication, select `dev` as the repository default
-on GitHub so the organization profile and community defaults use this branch.
-Renaming the local branch does not change GitHub settings.
+`dev` is the default branch and the branch the organization profile is read
+from. Every image in `profile/README.md` is an absolute
+`raw.githubusercontent.com/.../dev/...` URL, because organization profiles are
+rendered outside repository context and relative paths do not resolve there.
 
-This checkout has no Git remote. No publication automation is included.
+Renaming or replacing `dev` breaks every image on the public profile at once.
+If the branch ever changes, update the image URLs in the same commit.
+
+## Reporting contacts
+
+Vulnerability reports and code-of-conduct reports both go to
+[support@wpultimatesecurity.com](mailto:support@wpultimatesecurity.com).
+Public repositories also accept vulnerability reports privately through
+GitHub, which is the preferred route because it keeps the report, the
+discussion, and any advisory in one place.
 
 ## Media maintenance
 
 The profile uses a small official brand mark, an always-visible dashboard
-illustration, and a compact linked screenshot gallery, followed by official
-video links and a social footer.
+illustration, and a linked screenshot gallery, followed by official video
+links and a social footer.
 See [media sources](profile/assets/SOURCES.md) for provenance and retrieval dates.
 
 When the interface or official channels change, review the screenshots, video
@@ -51,5 +61,9 @@ them for sensitive data, and update the source record when replacing an asset.
 Check narrow layouts and both light and dark themes. Preserve descriptive alt
 text and the full-size screenshot link.
 
-Image URLs target the future repository on `dev`, so they become live only
-after manual publication. For local review, open the PNG files in `profile/assets`.
+## License
+
+Text and configuration in this repository are available under the
+[MIT License](LICENSE). The brand mark and product screenshots remain the
+property of their owners and are not relicensed; see
+[media sources](profile/assets/SOURCES.md).

@@ -7,7 +7,26 @@ requests, discussions, or support forums. This includes exploitable problems in
 software, unsafe security examples, and exposed credentials.
 
 Follow the affected repository's own security policy when one exists.
-Otherwise, email your report privately to
+
+## What this policy covers
+
+- The Ultimate Security plugin published on
+  [WordPress.org](https://wordpress.org/plugins/ultimate-security/).
+- The public repositories in the
+  [WP Ultimate Security organization](https://github.com/wpultimatesecurity).
+
+Reports about sites that merely run the plugin belong with those site owners,
+not with us.
+
+## How to report
+
+Use GitHub's private vulnerability reporting where the affected code lives on
+GitHub: open the repository's **Security** tab and choose **Report a
+vulnerability**. The report stays private, and the discussion and any advisory
+stay attached to the project.
+
+For the plugin itself, whose source is not published on GitHub, or if you
+cannot use GitHub, email
 [support@wpultimatesecurity.com](mailto:support@wpultimatesecurity.com).
 Use a subject such as "Security report: project name" to help us route it.
 

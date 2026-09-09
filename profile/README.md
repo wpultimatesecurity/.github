@@ -13,6 +13,10 @@ building something for WordPress.
 [Get the plugin](https://wordpress.org/plugins/ultimate-security/) ·
 [Documentation](https://docs.wpultimatesecurity.com/)
 
+The plugin is distributed through WordPress.org, not from here. This
+organization is where our open guides, agent skills, and shared community
+policies live.
+
 ## Open-source resources
 
 Looking after a site? Start with the guides. Writing or reviewing WordPress
@@ -32,7 +36,7 @@ you still need to review the code they produce.
 [![Annotated Ultimate Security dashboard showing security findings, recommended actions, and recent sign-ins.](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/ultimate-security-preview.png)](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/ultimate-security-preview.png)
 
 This dashboard illustration comes from our WordPress.org listing. Open the
-image at full size for a closer look, or [browse the plugin screenshots](https://wordpress.org/plugins/ultimate-security/#screenshots).
+image at full size for a closer look.
 
 Video walkthroughs from WP Ultimate Security:
 
@@ -43,17 +47,11 @@ Video walkthroughs from WP Ultimate Security:
 
 Click any image to open it at full size.
 
-| Setup wizard | Login protection |
+|  |  |
 | --- | --- |
-| [<img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/setup-wizard.png" width="320" alt="Ultimate Security setup wizard showing a guided protection setup.">](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/setup-wizard.png) | [<img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/login-protection.png" width="320" alt="Ultimate Security login protection settings and lockout controls.">](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/login-protection.png) |
-
-| Two-factor authentication | Vulnerability scanner |
-| --- | --- |
-| [<img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/two-factor-authentication.png" width="320" alt="Ultimate Security two-factor authentication settings by user role.">](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/two-factor-authentication.png) | [<img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/vulnerability-scanner.png" width="320" alt="Ultimate Security vulnerability scanner results for WordPress components.">](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/vulnerability-scanner.png) |
-
-| Cloudflare WAF rules | |
-| --- | --- |
-| [<img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/cloudflare-waf.png" width="320" alt="Ultimate Security Cloudflare WAF rule configuration.">](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/cloudflare-waf.png) | |
+| [<img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/setup-wizard.png" width="320" alt="Ultimate Security setup wizard showing a guided protection setup.">](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/setup-wizard.png)<br>Setup wizard | [<img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/login-protection.png" width="320" alt="Ultimate Security login protection settings and lockout controls.">](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/login-protection.png)<br>Login protection |
+| [<img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/two-factor-authentication.png" width="320" alt="Ultimate Security two-factor authentication settings by user role.">](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/two-factor-authentication.png)<br>Two-factor authentication | [<img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/vulnerability-scanner.png" width="320" alt="Ultimate Security vulnerability scanner results for WordPress components.">](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/vulnerability-scanner.png)<br>Vulnerability scanner |
+| [<img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/cloudflare-waf.png" width="320" alt="Ultimate Security Cloudflare WAF rule configuration.">](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/cloudflare-waf.png)<br>Cloudflare WAF rules | [Browse every screenshot on WordPress.org](https://wordpress.org/plugins/ultimate-security/#screenshots) |
 
 ## Contributing
 
