@@ -40,8 +40,20 @@ image at full size for a closer look.
 
 Video walkthroughs from WP Ultimate Security:
 
-- [Ultimate Security Full WordPress Security Setup](https://www.youtube.com/watch?v=MU7KivId-cE)
-- [How to Setup Cloudflare WAF Rules for WordPress](https://www.youtube.com/watch?v=LCuXzebRGj4)
+<table width="100%">
+<tr>
+<td width="50%">
+<a href="https://www.youtube.com/watch?v=MU7KivId-cE"><img src="https://i.ytimg.com/vi/MU7KivId-cE/maxresdefault.jpg" width="100%" alt="Video thumbnail: Ultimate Security Full WordPress Security Setup."></a><br>
+<b><a href="https://www.youtube.com/watch?v=MU7KivId-cE">Ultimate Security Full WordPress Security Setup</a></b><br>
+Watch on YouTube
+</td>
+<td width="50%">
+<a href="https://www.youtube.com/watch?v=LCuXzebRGj4"><img src="https://i.ytimg.com/vi/LCuXzebRGj4/maxresdefault.jpg" width="100%" alt="Video thumbnail: How to Setup Cloudflare WAF Rules for WordPress."></a><br>
+<b><a href="https://www.youtube.com/watch?v=LCuXzebRGj4">How to Setup Cloudflare WAF Rules for WordPress</a></b><br>
+Watch on YouTube
+</td>
+</tr>
+</table>
 
 ### More screens
 

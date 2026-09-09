@@ -16,6 +16,12 @@ was selected by the project owner. The
 [Cloudflare WAF walkthrough](https://www.youtube.com/watch?v=LCuXzebRGj4)
 comes from the [official plugin listing](https://wordpress.org/plugins/ultimate-security/).
 Titles and channel ownership were checked through YouTube's public oEmbed metadata.
+Both videos are shown as thumbnail cards that link to YouTube. The thumbnails
+are loaded live from `i.ytimg.com/vi/<video id>/maxresdefault.jpg`, so they
+follow whatever thumbnail the channel publishes and are not stored here.
+GitHub proxies them through its image cache, so nothing is requested from
+YouTube until a visitor clicks. GitHub strips iframes, so an inline player is
+not possible.
 The social destinations are published in the [official website](https://wpultimatesecurity.com/) footer.
 
 The additional gallery images are copied from the local plugin assets supplied
