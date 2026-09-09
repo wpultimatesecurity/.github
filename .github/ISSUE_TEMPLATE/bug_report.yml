@@ -1,0 +1,71 @@
+name: Bug report
+description: Report a reproducible code or documentation problem.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Do not report security vulnerabilities through this issue form. Follow [SECURITY.md](https://github.com/wpultimatesecurity/.github/blob/main/SECURITY.md) instead.**
+        Follow the affected repository's own security policy if it has one.
+        For plugin setup or customer questions, see [support guidance](https://github.com/wpultimatesecurity/.github/blob/main/SUPPORT.md).
+  - type: input
+    id: project
+    attributes:
+      label: Affected project or repository
+      description: Include the page or file for documentation problems.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Project version or revision
+      description: Release version or commit, if known. Write unknown if needed.
+    validations:
+      required: true
+  - type: input
+    id: wordpress_version
+    attributes:
+      label: WordPress version
+      description: If applicable.
+  - type: input
+    id: php_version
+    attributes:
+      label: PHP version
+      description: If applicable.
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Relevant OS, browser, hosting setup, or integrations. Do not include credentials or private site URLs.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Provide the smallest example that demonstrates the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Logs or screenshots
+      description: Optional. Redact secrets, private URLs, and personal data before attaching evidence.
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Before submitting
+      options:
+        - label: I have removed secrets and personal data from this report and its attachments.
+          required: true
