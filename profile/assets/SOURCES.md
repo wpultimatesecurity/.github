@@ -28,6 +28,7 @@ for this profile:
 | two-factor-authentication.png | `screenshot-5.png` | Two-factor authentication |
 | vulnerability-scanner.png | `screenshot-8.png` | Vulnerability scanner |
 | cloudflare-waf.png | `screenshot-9.png` | Cloudflare WAF rules |
+| bot-protection-captcha.png | `screenshot-7.png` | Bot protection and CAPTCHA |
 
 The source directory also contains a Playground blueprint with example email
 addresses. That file was deliberately excluded from this public repository.

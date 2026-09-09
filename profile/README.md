@@ -47,11 +47,40 @@ Video walkthroughs from WP Ultimate Security:
 
 Click any image to open it at full size.
 
-|  |  |
-| --- | --- |
-| [<img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/setup-wizard.png" width="320" alt="Ultimate Security setup wizard showing a guided protection setup.">](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/setup-wizard.png)<br>Setup wizard | [<img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/login-protection.png" width="320" alt="Ultimate Security login protection settings and lockout controls.">](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/login-protection.png)<br>Login protection |
-| [<img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/two-factor-authentication.png" width="320" alt="Ultimate Security two-factor authentication settings by user role.">](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/two-factor-authentication.png)<br>Two-factor authentication | [<img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/vulnerability-scanner.png" width="320" alt="Ultimate Security vulnerability scanner results for WordPress components.">](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/vulnerability-scanner.png)<br>Vulnerability scanner |
-| [<img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/cloudflare-waf.png" width="320" alt="Ultimate Security Cloudflare WAF rule configuration.">](https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/cloudflare-waf.png)<br>Cloudflare WAF rules | [Browse every screenshot on WordPress.org](https://wordpress.org/plugins/ultimate-security/#screenshots) |
+<table width="100%">
+<tr>
+<td width="50%">
+<a href="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/setup-wizard.png"><img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/setup-wizard.png" width="100%" alt="Ultimate Security setup wizard showing a guided protection setup."></a><br>
+<b>Setup wizard</b>
+</td>
+<td width="50%">
+<a href="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/login-protection.png"><img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/login-protection.png" width="100%" alt="Ultimate Security login protection settings and lockout controls."></a><br>
+<b>Login protection</b>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/two-factor-authentication.png"><img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/two-factor-authentication.png" width="100%" alt="Ultimate Security two-factor authentication settings by user role."></a><br>
+<b>Two-factor authentication</b>
+</td>
+<td width="50%">
+<a href="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/vulnerability-scanner.png"><img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/vulnerability-scanner.png" width="100%" alt="Ultimate Security vulnerability scanner results for WordPress components."></a><br>
+<b>Vulnerability scanner</b>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/cloudflare-waf.png"><img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/cloudflare-waf.png" width="100%" alt="Ultimate Security Cloudflare WAF rule configuration."></a><br>
+<b>Cloudflare WAF rules</b>
+</td>
+<td width="50%">
+<a href="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/bot-protection-captcha.png"><img src="https://raw.githubusercontent.com/wpultimatesecurity/.github/dev/profile/assets/bot-protection-captcha.png" width="100%" alt="Ultimate Security bot protection settings for reCAPTCHA and Cloudflare Turnstile."></a><br>
+<b>Bot protection</b>
+</td>
+</tr>
+</table>
+
+[Browse every screenshot on WordPress.org](https://wordpress.org/plugins/ultimate-security/#screenshots)
 
 ## Contributing
 
