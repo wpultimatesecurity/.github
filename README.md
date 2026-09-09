@@ -21,11 +21,9 @@ issue-template directory. See [GitHub's default community file documentation](ht
 
 ## Before publication
 
-- Replace `SECURITY_CONTACT_REQUIRED` in the security policy with a verified
-  private vulnerability reporting destination.
-- Replace `CONDUCT_CONTACT_REQUIRED` in the code of conduct with a designated
-  private reporting destination and confirm who will handle reports.
-- Review these policies before adopting them organization-wide.
+Private vulnerability reports and code-of-conduct reports go to
+[support@wpultimatesecurity.com](mailto:support@wpultimatesecurity.com).
+Review these policies before adopting them organization-wide.
 
 Profile and shared-policy links target `wpultimatesecurity/.github` on `dev`.
 They will become live only after these files are manually published there.

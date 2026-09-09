@@ -43,11 +43,11 @@ We agree to restrict the following behaviors in our community. Instances, threat
 
 Tensions can occur between community members even when they are trying their best to collaborate. Not every conflict represents a code of conduct violation, and this Code of Conduct reinforces encouraged behaviors and norms that can help avoid conflicts and minimize harm.
 
-When an incident does occur, it is important to report it promptly. To report a possible violation, use the private reporting destination: **`CONDUCT_CONTACT_REQUIRED`**.
-
-This is an unresolved maintainer configuration item, not a working contact.
-Maintainers must designate a private reporting destination before adopting this policy.
-Do not post private incident details in public issues.
+To report a possible violation, email
+[support@wpultimatesecurity.com](mailto:support@wpultimatesecurity.com).
+Use "Code of conduct report" in the subject and describe what happened, where
+it happened, and any relevant context. Do not post private incident details in
+public issues.
 
 Project maintainers are responsible for applying this code of conduct. They may
 review relevant messages and other evidence and seek clarification from those
@@ -84,7 +84,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 ## Attribution
 
 Adapted for WP Ultimate Security: reporting and moderation wording has been
-changed to identify maintainer responsibilities and the pending contact setup.
+changed to identify maintainer responsibilities and the reporting contact.
 
 This Code of Conduct is adapted from the Contributor Covenant, version 3.0, permanently available at [https://www.contributor-covenant.org/version/3/0/](https://www.contributor-covenant.org/version/3/0/).
 

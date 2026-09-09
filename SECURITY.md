@@ -7,15 +7,9 @@ requests, discussions, or support forums. This includes exploitable problems in
 software, unsafe security examples, and exposed credentials.
 
 Follow the affected repository's own security policy when one exists.
-Otherwise, the organization-wide private reporting destination is:
-
-**`SECURITY_CONTACT_REQUIRED`**
-
-This contact still needs to be confirmed before publication. The placeholder
-above is not a working address. In the meantime, you can email
-[product support](mailto:support@wpultimatesecurity.com) to ask for a private
-security contact. Do not include exploit details or sensitive
-data in that initial request. The support address is not a verified security inbox.
+Otherwise, email your report privately to
+[support@wpultimatesecurity.com](mailto:support@wpultimatesecurity.com).
+Use a subject such as "Security report: project name" to help us route it.
 
 ## Information to include in a private report
 
